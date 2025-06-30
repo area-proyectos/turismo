@@ -168,7 +168,6 @@ body {
   color: #223046;
 }
 
-/* CENTRADO RESPONSIVE EN PANTALLAS PEQUEÑAS */
 @media (max-width: 1350px) {
   .container { max-width: 99vw; }
   .main-row { gap: 10px; }
